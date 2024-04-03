@@ -1,0 +1,15 @@
+.userWrapper {
+  margin: 10px;
+  background-color: aliceblue;
+  width: fit-content;
+  min-width: 400px;
+  padding: 24px 32px;
+  border-radius: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  button {
+    margin-top: 15px;
+  }
+}

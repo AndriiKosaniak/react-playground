@@ -1,0 +1,19 @@
+.productWrapper {
+  display: grid;
+  grid-template-columns: 40% 60%;
+
+  padding: 32px 24px;
+  img {
+    width: 400px;
+  }
+  div {
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+    button {
+      width: fit-content;
+    }
+  }
+}

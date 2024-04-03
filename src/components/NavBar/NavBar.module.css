@@ -1,0 +1,13 @@
+.navWrapper {
+  margin: 20px auto;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  a {
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 25px;
+  }
+}
